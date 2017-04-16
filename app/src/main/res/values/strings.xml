@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Hippo Demo</string>
+    <string name="activation_title">Activate Hippo Demo</string>
+    <string name="result_title">OTP Result</string>
+    <string name="error_title">Error</string>
+    <string name="waringing_title">Warning</string>
+    <string name="error_generate_otp_failed">Failed to generate OTP, please check your input and try again!</string>
+    <string name="error_activation_failed">Failed to activate, please check your input and try again!</string>
+    <string name="error_not_yet_activated">Not yet activated, please activate your device to proceed!</string>
+    <string name="message_activation_success">Activated successfully</string>
+    <string name="warning_gcode_empty">Please enter gCode!</string>
+    <string name="warning_device_pin_code_empty">Please enter device PIN code!</string>
+    <string name="button_ok">OK</string>
+</resources>
