@@ -6,23 +6,25 @@ HippoSecurity client-side demo project for Android.
 
 ## Prerequisite
 
-Please contact HippoSecurity support to obtain your copy of the library  `hippo-lib-release.aar`, and copy the binary file into `~/hippo-lib/` folder in the project.
+Please contact HippoSecurity support to obtain your copy of the library  `hippo-lib-release.aar`, and copy it into `~/hippo-lib/` folder of the project.
 
 ## Build and run the demo
 
-Open the project with latest version of Android Studio.
+Clone this repository and open the project with latest version of Android Studio.
 
-The first screen will prompt for `device PIN code` to activate the client, you can use the default value for trail purpose.
+Build and run the App. The first screen will prompt for `device PIN code` to activate the client. You can use the default value and tap on the `Activate` button:
 
-Once the client is activated, the main screen will wait for user to enter `gCode`, which you can see in Linux console if you run the `hippo-demo-linux` project.
+![ActivationView](media/activation_view.pg)
+
+Once the client is activated, it will return to the main screen, wait for user to enter `gCode`. You can run the `hippo-demo-linux` project to get this `gCode`:
 
 ![InputView](media/input_view.png)
 
-User enter `gCode` and tap on the `Generate OTP` button, it will jump to the second screen to display generated OTP code:
+Tap on the `Generate OTP` button, it will jump to result view with OTP displayed:
 
 ![ResultView](media/result_view.png)
 
-User can then enter the OTP back to server side for verification.
+Now you can enter this OTP to the Linux console which is waiting for input, and it will verify if your OTP is valid.
 
 ## License
 
