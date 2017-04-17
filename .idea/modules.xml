@@ -3,7 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/hippo-demo-android.iml" filepath="$PROJECT_DIR$/hippo-demo-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hippo-demo-android.iml" filepath="$PROJECT_DIR$/hippo-demo-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hippo-lib/hippo-lib.iml" filepath="$PROJECT_DIR$/hippo-lib/hippo-lib.iml" />
       <module fileurl="file://$PROJECT_DIR$/hippo-lib/hippo-lib.iml" filepath="$PROJECT_DIR$/hippo-lib/hippo-lib.iml" />
     </modules>
   </component>
