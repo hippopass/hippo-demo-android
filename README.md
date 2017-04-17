@@ -14,7 +14,7 @@ Clone this repository and open the project with latest version of Android Studio
 
 Build and run the App. The first screen will prompt for `device PIN code` to activate the client. You can use the default value and tap on the `Activate` button:
 
-![ActivationView](media/activation_view.pg)
+![ActivationView](media/activation_view.png)
 
 Once the client is activated, it will return to the main screen, wait for user to enter `gCode`. You can run the `hippo-demo-linux` project to get this `gCode`:
 
